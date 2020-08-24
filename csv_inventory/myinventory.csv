@@ -1,0 +1,7 @@
+Device Name,Mgmt IP,Location,Function,Platform,Netside
+EORcbb01,10.141.1.114,Orlando,backbone,ios,A
+EORcbb02,10.141.1.115,Orlando,backbone,ios,B
+ORDcore01,10.122.1.114,ORD,core,ios,A
+ORDcore02,10.122.1.115,ORD,core,ios,B
+EORlabbuffcel01,10.141.1.141,Orlando,PerimeterSecurity,panos,A
+MCOaccess02,10.141.1.123,MCO,access,aos,B
